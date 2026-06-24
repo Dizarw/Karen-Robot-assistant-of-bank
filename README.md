@@ -1,35 +1,35 @@
 
-# Karen Bank 🏦
+# Karen Bank
 
-Projeto simples em Java para gerenciamento de contas bancárias.
+A simple Java project for bank account management.
 
-## Funcionalidades
-- Criar conta
-- Depositar dinheiro
-- Sacar dinheiro
-- Consultar saldo
+# Features
+- Create account
+- Deposit money
+- Withdraw money
+- Check balance
 
-## Estrutura
-- `Account`: representa uma conta bancária
-- `BankSystem`: gerencia múltiplas contas
-- `KarenBankApp`: interface principal via terminal
+# Structure
+- `Account`: represents a bank account
+- `BankSystem`: manages multiple accounts
+- `KarenBankApp`: main terminal-based interface
 
-## Segurança (básico)
-- Validação de valores (não permite negativos)
-- Organização via encapsulamento (POO)
+# Security (basic)
+- Value validation (negative values ​​not allowed)
+- Organization via encapsulation (OOP)
 
-## Como executar
+# How to run
 
 ```bash
 javac KarenBankApp.java
 java karen.bank.KarenBankApp
 ```
 
-## Futuras melhorias
-- Criptografia de dados
-- Integração com banco de dados (MySQL)
-- Autenticação de usuários
-- Interface gráfica
+# Future improvements
+- Data encryption
+- Database integration (MySQL)
+- User authentication
+- Graphical user interface (GUI)
 
-## Autor
-Projeto criado para estudo de sistemas bancários em Java.
+# Author
+Project created to study banking systems in Java.
